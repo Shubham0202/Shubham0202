@@ -18,14 +18,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Shubham0202/Shubham0202/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="left">Languages :</h3>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="12" />
